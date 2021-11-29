@@ -1,5 +1,9 @@
 # The science of accelerated playback
 
+### Literally Just a Note to Myself of What I Want to Do
+
+So, there is this great program called [jumpcutter](https://github.com/carykh/jumpcutter.git). The only issue with it is it is slow. It just splits the video into segments and then goes from there. I want to expand upon this video speed player, and try to use the native HTML5 API to speed up or slow down video and audio playback. This will allow for the faster ingestation of content without taking hours to render. 
+
 **TL;DR: faster playback translates to better engagement and retention.**
 
 Average adult reads prose text at
